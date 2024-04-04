@@ -39,7 +39,7 @@ const ProductDetails = () => {
                         </select></p>
                     <p>Quantity: <input type="text" value="1"/></p>
                     <button type="button">
-                        BUY NOW</button>
+                        BUY NOw</button>
                 </div>
 
             </div>
